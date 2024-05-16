@@ -8,9 +8,9 @@ body {
 $primary_1: #3D3D3D;
 
 body {
-	color: primary_1;
+	color: $primary_1;
 }
 
 p {
-	color: primary_1;
+	color: $primary_1;
 }
