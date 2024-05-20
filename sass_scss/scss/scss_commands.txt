@@ -1,1 +1,0 @@
-sass --watch 0-debug_log.scss output.css
