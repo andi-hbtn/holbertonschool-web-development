@@ -1,3 +1,5 @@
+/* Extend directive */
+
 @import "10-colors";
 
 .red {
@@ -10,16 +12,4 @@
 
 .blue {
 	color: $blue;
-}
-
-.red {
-	color: #FF0000;
-}
-
-.green {
-	color: #00FF00;
-}
-
-.blue {
-	color: #0000FF;
 }
