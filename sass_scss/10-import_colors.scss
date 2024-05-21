@@ -1,15 +1,16 @@
 /* Import directive */
+// 10-color.scss
 
-@import "10-colors";
+@import '10-colors';
 
 .red {
-		color: $red;
+	color: $red;
 }
 
 .green {
-		color: $green;
+	color: $green;
 }
 
 .blue {
-		color: $blue;
+	color: $blue;
 }
