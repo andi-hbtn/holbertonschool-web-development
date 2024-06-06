@@ -1,6 +1,6 @@
 /* Extend directive */
 
-@import "10-colors";
+@import url(./10-colors.scss);
 
 .red {
 	color: $red;
