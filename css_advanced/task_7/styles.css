@@ -6,39 +6,42 @@ footer{
 
 .footer-cnt{
     width: 70%;
-    margin: 50px auto;
+    padding-top: 50px;
+    margin: auto;
     overflow: hidden;
 }
 
-.footer-cnt > img{
-    width: 170px; 
-    height: 30px;
-    padding-top: 70px;
+
+.left{
     float: left;
+    padding-top: 50px;
 }
 
-.footer-cnt > div{
-float: right;
-padding-top: 50px;
-
+.left >span{
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 15px;
 }
 
-.footer-cnt > div > ul{
-    list-style-type: none;
+.right{
+    float: right;
+    padding-top: 50px;
+}
+
+.right > ul{
     padding: 0;
+    margin: 0;
+    list-style-type: none;
 }
 
-.footer-cnt > div > ul > li{
+.right > ul > li{
     display: inline-block;
     width: 80px;
-}
-
-.footer-cnt > div > ul > li > a{
-    text-decoration: none;
     color: #ffffff;
 }
 
 .smile{
     text-align: center;
-     color: #ffffff;
+    color: #ffffff;
+    font-size: 12px;
 }
