@@ -3,8 +3,11 @@
 }
 
 .faq-section{
-  background:#fff;
-  padding:80px 160px;
+  background-color:#ffffff;
+  width: 800px;
+  height: 708px;
+  margin: 0 auto;
+  padding: 40px;
 }
 
 .faq-section h2{
